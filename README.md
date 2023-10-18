@@ -1,0 +1,1 @@
+Laboratory works on the subject "Інтелектуальні методи технічного аналізу"
